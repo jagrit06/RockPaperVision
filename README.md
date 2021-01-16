@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Rock Paper Vision
+
+A simple react webapp to play Rock, Paper, Scissors against the computer using gestures detected by wecam as input!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
